@@ -1,4 +1,4 @@
-package com.soft2036.study;
+package com.soft2036.unit1;
 
 public class Rect {
     double width;
