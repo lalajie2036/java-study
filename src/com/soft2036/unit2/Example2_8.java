@@ -5,6 +5,9 @@ import java.util.Scanner;
 enum Season {
     春季,夏季,秋季,冬季
 }
+/**
+ * @author Mister-Lu
+ */
 public class Example2_8{
     public static void main(String[] args){
         Season x = null ;
