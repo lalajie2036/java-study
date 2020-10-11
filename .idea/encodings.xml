@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
     <file url="file://$PROJECT_DIR$/src/com/soft2036/unit2/Example2_8.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/com/soft2036/unit2/Location.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/com/soft2036/unit3/Example3_3.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/com/soft2036/unit4/Example4_1.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/sohu/com/TestOne.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/sun/hello/moon/TestTwo.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/tom/jiafei/Example4_21.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/soft2036/unit3/Example3_3.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/soft2036/unit4/Example4_1.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

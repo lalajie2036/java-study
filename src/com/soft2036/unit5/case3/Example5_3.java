@@ -31,8 +31,10 @@ public class Example5_3 {
         stu.x=98;
         System.out.println("对象stu的x的值是:"+stu.getX());
         //stu.x=98.98; //非法，因为子类对象的x已经不是int型
-        stu.setX(98.98); //子类对象调用继承的方法操作隐藏的double型变量x
-        double m=stu.getDoubleX();//子类对象调用继承的方法操作隐藏的double型变量x
+        //子类对象调用继承的方法操作隐藏的double型变量x
+        stu.setX(98.98);
+        //子类对象调用继承的方法操作隐藏的double型变量x
+        double m=stu.getDoubleX();
         System.out.println("对象stu隐藏的x的值是:"+m);
     }
 }

@@ -4,18 +4,18 @@ public class Example3_3 {
     public static void main(String[] args) {
         int math=65 ,english=85;
         if(math>60) {
-            System.out.println("ÊıÑ§¼°¸ñÁË");
+            System.out.println("æ•°å­¦åŠæ ¼äº†");
         }
         else {
-            System.out.println("ÊıÑ§²»¼°¸ñ");
+            System.out.println("æ•°å­¦ä¸åŠæ ¼");
         }
         if(english>90) {
-            System.out.println("Ó¢ÓïÊÇÓÅ");
+            System.out.println("è‹±è¯­æ˜¯ä¼˜");
         }
         else {
-            System.out.println("Ó¢Óï²»ÊÇÓÅ");
+            System.out.println("è‹±è¯­ä¸æ˜¯ä¼˜");
         }
-        System.out.println("ÎÒÔÚÑ§Ï°if-elseÓï¾ä");
+        System.out.println("æˆ‘åœ¨å­¦ä¹ if-elseè¯­å¥");
     }
 }
 
