@@ -6,10 +6,15 @@ package com.soft2036.unit4;
 public class People{
     int leg,hand;
     String name;
-    People(String s){
+    public People(String s){
         name=s;
         this.init();   //可以省略this，即将this.init();写成init();
     }
+
+    public People() {
+
+    }
+
     void init(){
         leg=2;
         hand=2;
